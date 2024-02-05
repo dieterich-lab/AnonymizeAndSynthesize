@@ -1,0 +1,14 @@
+*.deid
+.Rproj.*
+\.Rhistory
+.ipynb_checkpoints
+_archive
+data/UCC_heart*
+data/pngs*
+data/report*
+*.temp
+ASyH/*
+*data*.csv
+
+__pycache__
+.idea

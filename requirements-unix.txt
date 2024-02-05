@@ -1,0 +1,9 @@
+openpyxl
+matplotlib
+pandas
+numpy
+seaborn
+sdmetrics
+sdv
+rpy2==3.5.4
+python-magic

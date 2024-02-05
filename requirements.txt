@@ -1,0 +1,11 @@
+openpyxl
+matplotlib
+pandas
+numpy
+seaborn
+sdmetrics
+scikit-learn==1.4.0
+sdv
+rpy2==3.5.4
+python-magic-bin
+anonymeter
