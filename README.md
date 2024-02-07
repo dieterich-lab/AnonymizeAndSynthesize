@@ -5,7 +5,7 @@ Code accompanying the publication "Anonymize or Synthesize? - Privacy-Preserving
 - python 3.10
 - R, Version >= 4.3.0
 - JDK 17
-- ASyH 1.0.0
+- ASyH 1.0.0 (https://github.com/dieterich-lab/ASyH)
 
 ## Installation
 1. Create a virtual environment and install the necessary python packages according to the requirement documents
